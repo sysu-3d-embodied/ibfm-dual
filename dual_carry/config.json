@@ -1,0 +1,17 @@
+{
+  "robot_model": "revo2",
+  "box_handles": true,
+  "box_size_m": [0.60, 0.44, 0.30],
+  "box_mass_kg": 5.0,
+  "box_geom_quaternion_wxyz": [0.07016202, 0.97153219, 0.22227911, 0.04236142],
+  "box_friction": [1.0, 0.005, 0.0001],
+  "robot_positions_m": [[-0.95, 0.0, 0.78], [0.95, 0.0, 0.78]],
+  "robot_yaws_rad": [0.0, 3.141592653589793],
+  "box_position_m": [0.0, 0.0, 0.15],
+  "object_target_m": [0.0, 0.0, 0.15],
+  "physics_hz": 200,
+  "policy_hz": 50,
+  "coordination_hz": 5,
+  "render_width": 1280,
+  "render_height": 720
+}

@@ -1,0 +1,6 @@
+# Install after the official I-BFM runtime dependencies.
+matplotlib>=3.7
+imageio[ffmpeg]>=2.31
+Pillow>=10
+requests>=2.31
+h5py>=3.14
